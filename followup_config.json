@@ -1,0 +1,4 @@
+{
+    "csv_file_name": "FILE_NAME.csv",
+    "followup_message": "Hello {name},\nNewLine Here is a message\nNewLine"
+}

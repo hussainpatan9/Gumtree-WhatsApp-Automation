@@ -1,0 +1,6 @@
+{
+    "email": "your_email@example.com",
+    "password": "your_password",
+    "base_url": "https://www.gumtree.com/your-category",
+    "message_template": "Hello {name}, I'm interested in your ad."
+}
