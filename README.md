@@ -35,7 +35,7 @@ Store your Gumtree login credentials and other configurations in this file.
     "email": "your_email@example.com",
     "password": "your_password",
     "base_url": "https://www.gumtree.com/your-category",
-    "message_template": "Hello {name}, I'm interested in your ad titled '{ad_title}'."
+    "message_template": "Hello {name}, I'm interested in your ad."
 }
 ```
 
@@ -108,4 +108,4 @@ The script will send follow-up messages to contacts with a "Sent" message status
 This project is licensed under the [MIT License](LICENSE).
 
 Explore the documentation to make the most of this Gumtree automation tool for WhatsApp messaging. Use it responsibly and enjoy enhanced efficiency in your Gumtree outreach efforts.
-```
+
